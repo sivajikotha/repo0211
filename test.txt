@@ -1,3 +1,1 @@
-something
-adding info to PR
-data modified by developer2
+adding some content from master branch
